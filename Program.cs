@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace XOR_file
+namespace HASH_file
 {
     static class Program
     {

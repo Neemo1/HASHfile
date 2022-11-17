@@ -1,5 +1,5 @@
 ﻿
-namespace XOR_file
+namespace HASH_file
 {
     partial class Form1
     {
